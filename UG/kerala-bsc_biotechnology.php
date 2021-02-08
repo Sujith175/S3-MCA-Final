@@ -27,7 +27,7 @@
        
             <div class="sidebar-wrapper">
                 <div class="logo">
-                    <a href="/index.php" class="simple-text">
+                    <a href="../index.php" class="simple-text">
                         Learnso
                     </a>
                 </div>

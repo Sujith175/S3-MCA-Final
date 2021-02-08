@@ -153,7 +153,7 @@
 <h7>BTECH Electrical Engineering</h7>
 <div class="content">
                 <div class="container-fluid">
-
+<br>
                     <p><b>Semester 1</b></p>
          
             <span data-notify="icon" class="tim-icons icon-coins"></span>
@@ -245,20 +245,20 @@
        
                         
         
-
+<br>
            <p>Semester 3</p>
           <div class="alert alert-primary alert-with-icon">
             
             <span data-notify="icon" class="tim-icons icon-coins"></span>
             <span><a href="#"><b>NOT yet<b></a></span> <br>
           </div>
-
+<br>
           <p>Semester 4</p>
           <div class="alert alert-primary alert-with-icon">
             <span data-notify="icon" class="tim-icons icon-coins"></span>
             <span><a href="#"><b>NOT yet<b></a></span> <br>
           </div>
-
+<br>
           <p>Semester 5</p>
           <div class="alert alert-primary alert-with-icon">
             <button type="button" aria-hidden="true" class="close" data-dismiss="alert">
@@ -268,7 +268,7 @@
             <span>
             <span><a href="#"><b>NOT yet<b></a></span> <br>
           </div>
-                
+ <br>               
           
           <p>Semester 6</p>
           <div class="alert alert-primary alert-with-icon">
@@ -279,7 +279,7 @@
             <span>
             <span><a href="#"><b>NOT yet<b></a></span> <br>
           </div>
-          
+  <br>        
           <p>Semester 7</p>
           <div class="alert alert-primary alert-with-icon">
             <button type="button" aria-hidden="true" class="close" data-dismiss="alert">
@@ -289,7 +289,7 @@
             <span>
             <span><a href="#"><b>NOT yet<b></a></span> <br>
           </div>
-
+<br>
           <p>Semester 8</p>
           
             <span><a href="#"><b>NOT yet<b></a></span> <br>

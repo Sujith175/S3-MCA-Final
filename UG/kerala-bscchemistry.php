@@ -33,14 +33,14 @@
                 </div>
                 <ul class="nav">
                     <li >
-                        <a class="nav-link" href="kerala-MCA-regular.php">
+                        <a class="nav-link" href="BBA.php">
                             <i class="nc-icon nc-notes"></i>
                             <p>BBA</p>
                         </a>
                     </li>
                     
                     <li>
-                        <a class="nav-link" href="#">
+                        <a class="nav-link" href="BCA.php">
                             <i class="nc-icon nc-notes"></i>
                             <p>BCA</p>
                         </a>
@@ -269,7 +269,7 @@
 <script type="text/javascript" src="https://maps.googleapis.com/maps/api/js?key=YOUR_KEY_HERE"></script>
 <!--  Chartist Plugin  -->
 <script src="../assets/js/plugins/chartist.min.js"></script>
-<!-- Control Center for Light Bootstrap Dashboard: scripts for the example pages etc -->
+
 <script src="../assets/js/light-bootstrap-dashboard.js?v=2.0.0 " type="text/javascript"></script>
 
 <script src="../assets/js/demo.js"></script>

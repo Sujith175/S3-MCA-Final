@@ -153,7 +153,7 @@
 div class="content">
                 <div class="container-fluid">
 
-                    <p><b>Semester 1</b></p>
+ <br>                   <p><b>Semester 1</b></p>
          
             <span data-notify="icon" class="tim-icons icon-coins"></span>
            
@@ -243,61 +243,50 @@ div class="content">
 
        
                         
-        
+<br>        
 
            <p>Semester 3</p>
-          <div class="alert alert-primary alert-with-icon">
+         
             
             <span data-notify="icon" class="tim-icons icon-coins"></span>
             <span><a href="#"><b>NOT yet<b></a></span> <br>
           </div>
-
+<br>
           <p>Semester 4</p>
-          <div class="alert alert-primary alert-with-icon">
+         
             <span data-notify="icon" class="tim-icons icon-coins"></span>
             <span><a href="#"><b>NOT yet<b></a></span> <br>
-          </div>
+<br>        
 
           <p>Semester 5</p>
-          <div class="alert alert-primary alert-with-icon">
-            <button type="button" aria-hidden="true" class="close" data-dismiss="alert">
-              <i class="tim-icons icon-simple-remove"></i>
-            </button>
+          
             <span data-notify="icon" class="tim-icons icon-coins"></span>
-            <span>
+            
             <span><a href="#"><b>NOT yet<b></a></span> <br>
-          </div>
-                
+         
+ <br>               
           
           <p>Semester 6</p>
-          <div class="alert alert-primary alert-with-icon">
-            <button type="button" aria-hidden="true" class="close" data-dismiss="alert">
-              <i class="tim-icons icon-simple-remove"></i>
-            </button>
-            <span data-notify="icon" class="tim-icons icon-coins"></span>
-            <span>
-            <span><a href="#"><b>NOT yet<b></a></span> <br>
-          </div>
           
-          <p>Semester 7</p>
-          <div class="alert alert-primary alert-with-icon">
-            <button type="button" aria-hidden="true" class="close" data-dismiss="alert">
-              <i class="tim-icons icon-simple-remove"></i>
-            </button>
             <span data-notify="icon" class="tim-icons icon-coins"></span>
-            <span>
+            
             <span><a href="#"><b>NOT yet<b></a></span> <br>
-          </div>
-
+          
+ <br>         
+          <p>Semester 7</p>
+         
+            <span data-notify="icon" class="tim-icons icon-coins"></span>
+           
+            <span><a href="#"><b>NOT yet<b></a></span> <br>
+         
+<br>
           <p>Semester 8</p>
           <div class="alert alert-primary alert-with-icon">
-            <button type="button" aria-hidden="true" class="close" data-dismiss="alert">
-              <i class="tim-icons icon-simple-remove"></i>
-            </button>
+          
             <span data-notify="icon" class="tim-icons icon-coins"></span>
-            <span>
+        
             <span><a href="#"><b>NOT yet<b></a></span> <br>
-          </div>
+        
 
            </div>
            </div>

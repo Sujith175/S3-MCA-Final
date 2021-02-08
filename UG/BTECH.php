@@ -26,7 +26,7 @@
        
             <div class="sidebar-wrapper">
                 <div class="logo">
-                    <a href="/index.php" class="simple-text">
+                    <a href="../index.php" class="simple-text">
                         Learnso
                     </a>
                 </div>
@@ -66,14 +66,14 @@
                     </li>
 
                     <li>
-                        <a class="nav-link" href="BSC Physics.php">
+                        <a class="nav-link" href="BSC maths.php">
                             <i class="nc-icon nc-atom"></i>
                             <p>BSC Mathematics</p>
                         </a>
                     </li>
 
                     <li>
-                        <a class="nav-link" href="BSC Physics.php">
+                        <a class="nav-link" href="BSC chemistry.php">
                             <i class="nc-icon nc-atom"></i>
                             <p>BSC-Chemistry</p>
                         </a>
@@ -87,7 +87,7 @@
                     </li>
 
                     <li>
-                        <a class="nav-link" href="BSC Physics.php">
+                        <a class="nav-link" href="BSC_biotechnology.php">
                             <i class="nc-icon nc-atom"></i>
                             <p>BSC-Biotechnology</p>
                         </a>
@@ -149,7 +149,7 @@
                                     <a class="dropdown-item" href="BSC maths.php">BSC Maths</a>
                                     <a class="dropdown-item" href="BSC chemistry.php">BSC Chemistry</a>
                                     <a class="dropdown-item" href="BTECH.php">BTECH</a>
-                                    <a class="dropdown-item" href="bsc-computer_Science.php">BSC Biotechnology</a>
+                                    <a class="dropdown-item" href="bsc_computer_Science.php">BSC Biotechnology</a>
                                     
                                 </div>
                             </li>

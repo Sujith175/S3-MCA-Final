@@ -27,7 +27,7 @@
        
             <div class="sidebar-wrapper">
                 <div class="logo">
-                    <a href="#" class="simple-text">
+                    <a href="../index.php" class="simple-text">
                         Learnso
                     </a>
                 </div>
@@ -157,65 +157,88 @@
 
 <!-------link body------->
 <br></br>
-<h7>BSC-Physics</h7>
-            <div class="content">
+<h7><b>BSC Physics</b></h7>
+<br>
+<div class="content">
                 <div class="container-fluid">
-
                     <p>Semester 1</p>
-          <div class="alert alert-primary alert-with-icon">
-           
+          
+          
             <span data-notify="icon" class="tim-icons icon-coins"></span>
-            <span>
-              <b> put link- </b> here</span>  <!------put material link here----->
-          </div>
-
-
-          <p>Semester 2</p>
-          <div class="alert alert-primary alert-with-icon">
-           
-            <span data-notify="icon" class="tim-icons icon-coins"></span>
-            <span>
-              <b> put link- </b> here</span>  <!------put material link here----->
-          </div>
-                        
         
+            <span><a href="https://drive.google.com/file/d/1CBrLH3Lxr0LV3Heqw3D_yBxb40GZXW_-/view?usp=sharing"><b>Unit 1 Solid State<b></a></span> <br>
+            <span><a href="https://drive.google.com/file/d/1xkuab6ibwW52iLrcHyAFKaW1znuZUpjv/view?usp=sharing"><b>Unit 1 Solid State Conti...<b></a></span> <br>
+            <span><a href="https://drive.google.com/file/d/166ptrvXAUyKljVkb8INulkxwQA6Kk4It/view?usp=sharing"><b>Osmotic Pressure and Van't Hoff factor<b></a></span> <br>
+            <span><a href="https://drive.google.com/file/d/1WnaO1hMlaKmrzZgVoYTENUhTIu1-Q0pC/view?usp=sharing"><b>Colligative Properties<b></a></span> <br>
+            <span><a href="https://drive.google.com/file/d/1rmL63PlqjKRQitFdrkaCCcI3xoedPE48/view?usp=sharing"><b>Unit 3 Thermochemistry<b></a></span> <br>
+            <span><a href="https://drive.google.com/file/d/1m7y7OC6q9YTqSNPJ6-5M9pOWNpXAqRyH/view?usp=sharing"><b>Thermodynamics<b></a></span> <br>
+            <span><a href="https://drive.google.com/file/d/1OgkyPnUzcRBflzj6aYw2xxuDGQo3r61b/view?usp=sharing"><b>Unit 3 Conti...<b></a></span> <br>
+            <span><a href="https://drive.google.com/file/d/1GuNJER8t2gsZhBZcp9YVgyl1GcA8BCb3/view?usp=sharing"><b>Surface Tension<b></a></span> <br>
+           
+
+<br>
+          <p>Semester 2</p>
+   <      
+            <span data-notify="icon" class="tim-icons icon-coins"></span>
+            <span><a href="https://drive.google.com/file/d/1phLjkqb8YQnkNGu_OxjZig8c7dr3OTUI/view?usp=sharing"><b>Optics<b></a></span> <br>
+            <span><a href="https://drive.google.com/file/d/1xB0jej6K49_WHUKOS6Me2tjtKJR1V-5I/view?usp=sharing"><b>Interference and Diffraction<b></a></span> <br>
+            <span><a href="https://drive.google.com/file/d/1VHdua9p4cezuWHMdq6TY51CrFVJRrMWc/view?usp=sharing"><b>Polarization<b></a></span> <br>
+            <span><a href="https://drive.google.com/file/d/1DQ4PAAkZBJiGbuQwCWztYA3gQoTBt3UQ/view?usp=sharing"><b>Hydrids<b></a></span> <br>
+            <span><a href="https://drive.google.com/file/d/1bo81Y_c0bg_O5GJ6G-5pMCIZzvunoMRZ/view?usp=sharing"><b>Periodic Trends<b></a></span> <br>
+            <span><a href="https://drive.google.com/file/d/1W6om4l_auFK9PrhKwyOzu5uRXQcXEs1L/view?usp=sharing"><b>S and p Block Elements<b></a></span> <br>
+            <span><a href="https://drive.google.com/file/d/1XAQcoSWvhY4LPyxvRjDl8YwdUi59rKQY/view?usp=sharing"><b>Nuclear Chemistry<b></a></span> <br>
+          
+                        
+<br>
 
            <p>Semester 3</p>
-          <div class="alert alert-primary alert-with-icon">
-            
+          
             <span data-notify="icon" class="tim-icons icon-coins"></span>
-            <span>
-              <b> put link- </b> here</span>  <!------put material link here----->
-          </div>
+            <span><a href="https://drive.google.com/file/d/14xZiI75aypP-H-AIcpXldxSWLbgoznoj/view?usp=sharing"><b>Chemistry Unit 1<b></a></span> <br>
+            <span><a href="https://drive.google.com/file/d/1vACM0DqXUrpsa0DabAGKyxf2MSNL7uFG/view?usp=sharing"><b>Chemistry Unit 1 Conti...<b></a></span> <br>
+            <span><a href="https://drive.google.com/file/d/1McVciD5NeRfRqTs5kM2Mm9UZnMtjgLK5/view?usp=sharing"><b><b>Chemistry Unit 2</a></span> <br>
+            <span><a href="https://drive.google.com/file/d/1fLp8qpeMtQ1k7n-y9FlP-H6fJXXuB3Cc/view?usp=sharing"><b><b></a>Chemistry Unit 3</span> <br>
+            <span><a href="https://drive.google.com/file/d/1W6gIRnVDOo5m1IX_R3YU9_0xEKoTpn6G/view?usp=sharing"><b><b></a>Chemistry Unit 4</span> <br>
+            <span><a href="https://drive.google.com/file/d/1lp5DaY_qEkhVKtAxCvERzjE4SjdvmImt/view?usp=sharing"><b>Optics and Semiconductors Physics Unit 1<b></a></span> <br>
+            <span><a href="https://drive.google.com/file/d/1bQgjgWhQZjN2RhS8pMC6ZCJP3Yy8syog/view?usp=sharing"><b>Optics and Semiconductors Physics Unit 2<b></a></span> <br>
+            <span><a href="https://drive.google.com/file/d/1AP9eoDgGxkbmKqPoclG3Vx1oF12olABv/view?usp=sharing"><b>Optics and Semiconductors Physics Unit 3<b></a></span> <br>
+            
+
+<br>         
 
           <p>Semester 4</p>
-          <div class="alert alert-primary alert-with-icon">
-            <button type="button" aria-hidden="true" class="close" data-dismiss="alert">
-              <i class="tim-icons icon-simple-remove"></i>
-            </button>
-            <span data-notify="icon" class="tim-icons icon-coins"></span>
-            <span>
-              <b> put link- </b> here</span>  <!------put material link here----->
-          </div>
+         
+         <span data-notify="icon" class="tim-icons icon-coins"></span>
+             <span><a href="#"><b>Not Yet<b></a></span> <br>
+           
+           
+ <br>             
                   
           <p>Semester 5</p>
-          <div class="alert alert-primary alert-with-icon">
-           
+        
             <span data-notify="icon" class="tim-icons icon-coins"></span>
-            <span>
-              <b> put link- </b> here</span>  <!------put material link here----->
-          </div>
-
+            <span><a href="https://drive.google.com/file/d/1ZjDU33oIhlFVkF0oUIfSlWyQgP9VVQm8/view?usp=sharing"><b>Classical and Quantum Physics Unit 1<b></a></span> <br>
+            <span><a href="https://drive.google.com/file/d/1xD3obTFAyBrTZXOqEn7Dcc-cxHHLPJgX/view?usp=sharing"><b>Classical and Quantum Physics Unit 2<b></a></span> <br>
+            <span><a href="https://drive.google.com/file/d/12lZzgobmPKv1w8Z9EeOW9DEGnuhH6xzS/view?usp=sharing"><b>Classical and Quantum Physics Unit 3<b></a></span> <br>
+            <span><a href="https://drive.google.com/file/d/1BhmnyXW3xH8juAOvg0kk9zFGlhEH-lTB/view?usp=sharing"><b>Digital Electronics Part 1<b></a></span> <br>
+            <span><a href="https://drive.google.com/file/d/1UpElFmJQZoKwQeNrvCBXHhO0eDwDpgCc/view?usp=sharing"><b>Digital Electronics Part 2<b></a></span> <br>
+            <span><a href="https://drive.google.com/file/d/1LZ6OTIBd0_7Mjo4neMXEECCVA39VLoU7/view?usp=sharing"><b>Electricity & Electro Dynamics Part 1<b></a></span> <br>
+            <span><a href="https://drive.google.com/file/d/1Qv2dMclyGv4O8IlHNdtfWjlTxEiAcSsd/view?usp=sharing"><b>Electricity & Electro Dynamics Part 2<b></a></span> <br>
+            <span><a href="https://drive.google.com/file/d/11aJjAOPMltyCtjHwghf9gesWS9l7KH_A/view?usp=sharing"><b>Electricity & Electro Dynamics Part 3<b></a></span> <br>
+            <span><a href="https://drive.google.com/file/d/12G-2ZaYY6f0r4Bx-BZo2r1YNcvrYRteU/view?usp=sharing"><b>Electricity & Magnetism<b></a></span> <br>
+           
+            
+            
+<br>
           <p>Semester 6</p>
-          <div class="alert alert-primary alert-with-icon">
-           
+         
             <span data-notify="icon" class="tim-icons icon-coins"></span>
-            <span>
-              <b> put link- </b> here</span>  <!------put material link here----->
-          </div>
+            <span><a href="https://drive.google.com/file/d/1K9koRE3mTIjGqikymgLuwBtFvYtT6cnL/view?usp=sharing"><b>Thermal and Statistical Physics Unit 1 <b></a></span> <br>
+            <span><a href="https://drive.google.com/file/d/1rL7YgR48fdrOTbtzBuFjU5EVQl1ixQo0/view?usp=sharing"><b>Thermal and Statistical Physics Unit 2<b></a></span> <br>
+            <span><a href="https://drive.google.com/file/d/1z3zZr4ZdtMQaGcactfKdZfwMWBTfgjj-/view?usp=sharing"><b>Thermal and Statistical Physic Unit 3<b></a></span> <br>
 
-           </div>
-           </div>
+          </div>
+          </div>
                  <!-------------------link body end--------------------->  
                         <p>
                         </br>

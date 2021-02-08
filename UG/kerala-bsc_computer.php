@@ -16,7 +16,7 @@
     <!-- CSS Files -->
     <link href="../assets/css/bootstrap.min.css" rel="stylesheet" />
     <link href="../assets/css/light-bootstrap-dashboard.css?v=2.0.0 " rel="stylesheet" />
-    <!-- CSS Just for demo purpose, don't include it in your project -->
+    
     <link href="../assets/css/demo.css" rel="stylesheet" />
 </head>
 
@@ -27,7 +27,7 @@
        
             <div class="sidebar-wrapper">
                 <div class="logo">
-                    <a href="/index.php" class="simple-text">
+                    <a href="../index.php" class="simple-text">
                         Learnso
                     </a>
                 </div>
@@ -135,11 +135,11 @@
                                     <a class="dropdown-item" href="BBA.php">BBA</a>
                                     <a class="dropdown-item" href="BCA.php">BCA</a>
                                     <a class="dropdown-item" href="bsc-computer_Science.php">BSC COmputer Science</a>
-                                    <a class="dropdown-item" href="MTECH.php">BSC Physics</a>
-                                    <a class="dropdown-item" href="MTECH.php">BSC Maths</a>
-                                    <a class="dropdown-item" href="MTECH.php">BSC Chemistry</a>
-                                    <a class="dropdown-item" href="MTECH.php">BTECH</a>
-                                    <a class="dropdown-item" href="MTECH.php">BSC Biotechnology</a>
+                                    <a class="dropdown-item" href="BSC physics.php">BSC Physics</a>
+                                    <a class="dropdown-item" href="BSC maths.php">BSC Maths</a>
+                                    <a class="dropdown-item" href="BSC chemistry.php">BSC Chemistry</a>
+                                    <a class="dropdown-item" href="BTECH.php">BTECH</a>
+                                    <a class="dropdown-item" href="bsc_biotechnology.php">BSC Biotechnology</a>
                                     
                                 </div>
                             </li>

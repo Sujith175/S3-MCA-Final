@@ -152,7 +152,7 @@
 <h7 class="center">BTECH Chemical Engineering</h7>
 <div class="content">
                 <div class="container-fluid">
-
+<br>
                     <p><b>Semester 1</b></p>
          
             <span data-notify="icon" class="tim-icons icon-coins"></span>
@@ -242,7 +242,7 @@
             <span><a href="https://drive.google.com/file/d/148lO0PmTnfPhX4_rZuVsFE__1GPYvEh6/view?usp=sharing"><b>Computer Programming Module 5<b></a></span> <br>
 
        
-                        
+<br>                        
         
 
            <p>Semester 3</p>
@@ -251,13 +251,13 @@
             <span data-notify="icon" class="tim-icons icon-coins"></span>
             <span><a href="#"><b>NOT yet<b></a></span> <br>
           </div>
-
+<br>
           <p>Semester 4</p>
           <div class="alert alert-primary alert-with-icon">
             <span data-notify="icon" class="tim-icons icon-coins"></span>
             <span><a href="#"><b>NOT yet<b></a></span> <br>
           </div>
-
+<br>
           <p>Semester 5</p>
           <div class="alert alert-primary alert-with-icon">
             <button type="button" aria-hidden="true" class="close" data-dismiss="alert">
@@ -268,7 +268,7 @@
             <span><a href="#"><b>NOT yet<b></a></span> <br>
           </div>
                 
-          
+<br>          
           <p>Semester 6</p>
           <div class="alert alert-primary alert-with-icon">
             <button type="button" aria-hidden="true" class="close" data-dismiss="alert">
@@ -278,7 +278,7 @@
             <span>
             <span><a href="#"><b>NOT yet<b></a></span> <br>
           </div>
-          
+ <br>         
           <p>Semester 7</p>
           <div class="alert alert-primary alert-with-icon">
             <button type="button" aria-hidden="true" class="close" data-dismiss="alert">
@@ -288,7 +288,7 @@
             <span>
             <span><a href="#"><b>NOT yet<b></a></span> <br>
           </div>
-
+<br>
           <p>Semester 8</p>
           <div class="alert alert-primary alert-with-icon">
             <button type="button" aria-hidden="true" class="close" data-dismiss="alert">

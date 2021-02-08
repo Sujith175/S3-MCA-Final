@@ -3,10 +3,7 @@
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <script
-      src="https://kit.fontawesome.com/64d58efce2.js"
-      crossorigin="anonymous"
-    ></script>
+    
     <link rel="stylesheet" href="css/style1.css" />
     <title>Sign in & Sign up Form</title>
   </head>
@@ -15,82 +12,37 @@
       <div class="forms-container">
         <div class="signin-signup">
 
-            <!---------------sign-in form start------------------>
-          <form action="#" class="sign-in-form">
-            <h2 class="title">Sign in</h2>
+          <form method="post" action="validation.php" class="sign-in-form">
+            <h2 class="title">Sign in</h2> 
             <div class="input-field">
               <i class="fas fa-user"></i>
-              <input type="text" placeholder="Username" />
+              <input type="text" name="user" placeholder="Username" class="form-control" required="">
             </div>
             <div class="input-field">
               <i class="fas fa-lock"></i>
-              <input type="password" placeholder="Password" />
+              <input type="password" name="password" placeholder="Password" class="form-control" required="">
             </div>
             <input type="submit" value="Login" class="btn solid" />
-            <p class="social-text">Or Sign in with social platforms</p>
-            <div class="social-media">
-              <a href="https://www.facebook.com" class="social-icon">
-                <i class="fab fa-facebook-f"></i>
-              </a>
-              <a href="https://twitter.com/" class="social-icon">
-                <i class="fab fa-twitter"></i>
-              </a>
-              <a href="https://myaccount.google.com/" class="social-icon">
-                <i class="fab fa-google"></i>
-              </a>
-              <a href="https://www.linkedin.com/" class="social-icon">
-                <i class="fab fa-linkedin-in"></i>
-              </a>
-            </div>
+            
           </form>
 
-<!------------------------------sign-in form END---------------------------------------------------------------->
-
-
-
-
-
-<!-----------------------Sign-up form START-------------------------------------->
-
-          <form action="#" class="sign-up-form">
+          <form  method="post" action="registration.php" class="sign-up-form" >
             <h2 class="title">Sign up</h2>
             <div class="input-field">
               <i class="fas fa-user"></i>
-              <input type="text" placeholder="Username" />
+              <input type="text" placeholder="Username" name="newname" class="form-control" required/>
             </div>
-            <div class="input-field">
-              <i class="fas fa-envelope"></i>
-              <input type="email" placeholder="Email" />
-            </div>
-
-
-            <div class="input-field">
+             <div class="input-field">
               <i class="fas fa-lock"></i>
-              <input type="password" placeholder="Password" />
+              <input type="password" placeholder="Password" name="newpassword" class="form-control" required>
             </div>
             <div class="input-field">
               <i class="fas fa-lock"></i>
-              <input type="password" placeholder="Confirm Password" />
+              <input type="password" placeholder="Confirm Password" name="newpasswordc" class="form-control" required/>
             </div>
-
-        
-
-            <input type="submit" class="btn1" value="Sign up" />
-            <p class="social-text">Or Sign up with social platforms</p>
-            <div class="social-media">
-              <a href="https://www.facebook.com" class="social-icon2">
-                <i class="fab fa-facebook-f"></i>
-              </a>
-              <a href="https://twitter.com/" class="social-icon2">
-                <i class="fab fa-twitter"></i>
-              </a>
-              <a href="https://myaccount.google.com/" class="social-icon2">
-                <i class="fab fa-google"></i>
-              </a>
-              <a href="https://www.linkedin.com/" class="social-icon2">
-                <i class="fab fa-linkedin-in"></i>
-              </a>
-            </div>
+            <span id = "message" style="color:red"> </span>
+      
+            <input type="submit" value="Sign Up" class="btn solid" />
           </form>
         </div>
       </div>
@@ -123,6 +75,6 @@
       </div>
     </div>
 <!-------------------------sign-up END--------------------------->
-    <script src="app.js"></script>
+<script src="app.js"></script>
   </body>
 </html>

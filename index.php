@@ -5,16 +5,21 @@
 session_start();
 if(isset($_SESSION['username']))
 {
+    $username = $_SESSION['username'];
+}
+else
+{
+    echo"session not started";
     $_SESSION['msg']="you must login first to view this page";
-    header("location:login.php");
-
+    header("location:signin.html");
 }
 
 if(isset($_GET['logout']))
 {
+    echo"logout";
     session_destroy();
     unset($_SESSION['username']);
-    header("location:login.php");
+    header("location:signin.html");
 }
 
 ?>
@@ -85,6 +90,7 @@ if(isset($_GET['logout']))
                         <li><a class="nav-link" href="./pg/courses.html">Courses</a></li>
 						<li><a class="nav-link" href="news.html">News</a></li>
 						<li><a class="nav-link" href="contact.html">Contact us</a></li>
+                        <li><a class="nav-link" href=""><?php echo($username); ?></a></li>
                     </ul>
                 </div>
                 <div class="search-box">

@@ -157,61 +157,75 @@
 <!-------link body------->
 <br></br>
 <h7>BSC-Computer Science</h7>
+<br>
             <div class="content">
                 <div class="container-fluid">
 
                     <p>Semester 1</p>
-          <div class="alert alert-primary alert-with-icon">
+          
            
             <span data-notify="icon" class="tim-icons icon-coins"></span>
-            <span>
-              <b> put link- </b> here</span>  <!------put material link here----->
-          </div>
+            <span><a href="https://drive.google.com/file/d/1nNzmpkxHwPbq0IGBm7cLNRRDCJTMf67c/view?usp=sharing"><b>Computer fundamentals and organization<b></a></span> <br>
+            <span><a href="https://drive.google.com/file/d/1Xu8GVW7XeUFtWZW0i7G1DbUfoOuwqKO4/view?usp=sharing"><b>Digital electronics<b></a></span> <br>
+            <span><a href="https://drive.google.com/file/d/1wzjgyJdbMFH_5AtCVQSnHWctcxKZ1PRd/view?usp=sharing"><b>Introduction to programming<b></a></span> <br>
+            <span><a href="https://drive.google.com/file/d/1JA4ERh7CcrnH-Ulu-ctssagNTKosI4mw/view?usp=sharing"><b>Speaking and Listening skill<b></a></span> <br>
+         
 
-
+<br>
           <p>Semester 2</p>
-          <div class="alert alert-primary alert-with-icon">
+         
            
             <span data-notify="icon" class="tim-icons icon-coins"></span>
-            <span>
-              <b> put link- </b> here</span>  <!------put material link here----->
-          </div>
+            <span><a href="https://drive.google.com/file/d/1HkcLSx3o6kO2-aO4DZaH2HXfj-qeViu6/view?usp=sharing"><b>Enviourmental Studies<b></a></span> <br>
+            <span><a href="https://drive.google.com/file/d/15Ce45hWD81qYoeaiAHDRXqlwnSopdOEC/view?usp=sharing"><b>Data structures in c<b></a></span> <br>
+           <span><a href="https://drive.google.com/file/d/1isiChpajE9Lgyndy04nDIqKfwkRzDluU/view?usp=sharing"><b>Web programming<b></a></span> <br>
+        
                         
         
-
+<br>
            <p>Semester 3</p>
-          <div class="alert alert-primary alert-with-icon">
+          
             
             <span data-notify="icon" class="tim-icons icon-coins"></span>
-            <span>
-              <b> put link- </b> here</span>  <!------put material link here----->
-          </div>
+            <span><a href="https://drive.google.com/file/d/1jpYy9P5hu3hvVxVgA8TgwunUQgoW-Wmo/view?usp=sharing"><b>operating system<b></a></span> <br>
+            <span><a href="https://drive.google.com/file/d/1vj5sU-0L-jUUK4r1n8EE52FM259mA-RZ/view?usp=sharing"><b>Software engineering<b></a></span> <br>
+           <span><a href="https://drive.google.com/file/d/1lSwixEHYcam-HL1EJNiizOQ0u-Y3XXaG/view?usp=sharing"><b>Program in Java<b></a></span> <br>
+        
 
+
+<br>
           <p>Semester 4</p>
-          <div class="alert alert-primary alert-with-icon">
+          
             <button type="button" aria-hidden="true" class="close" data-dismiss="alert">
               <i class="tim-icons icon-simple-remove"></i>
             </button>
             <span data-notify="icon" class="tim-icons icon-coins"></span>
-            <span>
-              <b> put link- </b> here</span>  <!------put material link here----->
-          </div>
-                  
-          <p>Semester 5</p>
-          <div class="alert alert-primary alert-with-icon">
-           
-            <span data-notify="icon" class="tim-icons icon-coins"></span>
-            <span>
-              <b> put link- </b> here</span>  <!------put material link here----->
-          </div>
+            <span><a href="https://drive.google.com/file/d/122hYtljDW85sUJk60CQ7y4Ek5_TI2bho/view?usp=sharing"><b>PHP and MYSQL<b></a></span> <br>
+            <span><a href="https://drive.google.com/file/d/1xa_1CZzqtWWrKYtROdmlioUYP-0ZYULJ/view?usp=sharing"><b>Computer Network and security<b></a></span> <br>
+           <span><a href="https://drive.google.com/file/d/1xa_1CZzqtWWrKYtROdmlioUYP-0ZYULJ/view?usp=sharing"><b>Design and analysis of algorithms<b></a></span> <br>
+          
 
-          <p>Semester 6</p>
-          <div class="alert alert-primary alert-with-icon">
+
+<br>                  
+          <p>Semester 5</p>
+          
            
             <span data-notify="icon" class="tim-icons icon-coins"></span>
-            <span>
-              <b> put link- </b> here</span>  <!------put material link here----->
-          </div>
+            <span><a href="https://drive.google.com/file/d/188veHgRmRWNJIdEolPo6x_RzBBjgxS71/view?usp=sharing"><b>Computer Graphics<b></a></span> <br>
+            <span><a href="https://drive.google.com/file/d/1wBhduJGWWvB3VjCwQLMSfnxgF8i-mF_z/view?usp=sharing"><b>System software<b></a></span> <br>
+           <span><a href="https://drive.google.com/file/d/1fbW9sV5kcN45EWHJ_XFY-VPuSNnfaYvA/view?usp=sharing"><b>Python programming<b></a></span> <br>
+         
+
+
+<br>
+          <p>Semester 6</p>
+          
+           
+            <span data-notify="icon" class="tim-icons icon-coins"></span>
+            <span><a href="https://drive.google.com/file/d/1LkfKRVdFHnPvnHTBG7kQWYGTC-yXsIcZ/view?usp=sharing"><b>Data Mining and warehouse<b></a></span> <br>
+            <span><a href="https://drive.google.com/file/d/1N4eSKiLg4JA8DF9CxuMrdZ79PLJpyrwS/view?usp=sharing"><b>IOT<b></a></span> <br>
+           <span><a href="https://drive.google.com/file/d/1EdPzqDNv4J5dW6bTB2hTVtQVGvfNV4h3/view?usp=sharing"><b>Artifical intelligence<b></a></span> <br>
+         
 
            </div>
            </div>

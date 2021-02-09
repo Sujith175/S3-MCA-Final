@@ -186,7 +186,7 @@
           <span><a href="https://drive.google.com/file/d/1XySK8cKzns_06YbFoG-bupmRo2HrHoz9/view?usp=sharing"><b>Computer Graphics<b></a></span> <br>
           <span><a href="https://drive.google.com/file/d/1rlQV8DqkON2Zsnaz8nR9Ia0P4bbG86sU/view?usp=sharing"><b>Object Oriented Programming and C++<b></a></span> <br>
          
-
+<br>
           <p>Semester 4</p>
          <span data-notify="icon" class="tim-icons icon-coins"></span>
              <span><a href="https://drive.google.com/file/d/153dJcUUpjyDqkG2W6Al6duj9xV7KN5gr/view?usp=sharing"><b>Microprocessors and PC Hardware<b></a></span> <br>
@@ -195,14 +195,14 @@
             <span><a href="https://drive.google.com/file/d/14FLgMHqGXEV8aMky7a2x60pUCRcGdpGo/view?usp=sharing"><b>Visual Programming Techniques<b></a></span> <br>
            
                 
-                  
+ <br>                 
           <p>Semester 5</p>
             <span data-notify="icon" class="tim-icons icon-coins"></span>
             <span><a href="https://drive.google.com/file/d/1C2EMaINbeCO2UhjrezGgwJoKTLbhSBAn/view?usp=sharing"><b>Computer Networks<b></a></span> <br>
             <span><a href="https://drive.google.com/file/d/14h9TtY9Ufv41cAU77LTDs5gtZBiWDrp0/view?usp=sharing"><b>Operating Systems<b></a></span> <br>
             <span><a href="https://drive.google.com/file/d/1UnA8LW8GGlqGjfL_e8R11AgGEtCDgSki/view?usp=sharing"><b>Java Programming<b></a></span> <br>
           
-
+<br>
           <p>Semester 6</p>
             <span data-notify="icon" class="tim-icons icon-coins"></span>
             <span><a href="https://drive.google.com/file/d/1_-X8zBFEln5pHCxZNv0SygY2O4Koqx-p/view?usp=sharing"><b>Web Technology<b></a></span> <br>

@@ -34,7 +34,7 @@
             </div>
             <span id = "message" style="color:red"> </span>
       
-            <input type="submit" value="Change Pssword" class="btn solid" />
+            <input type="submit" value="Change Password" class="btn solid" />
           </form>
           <!-- LOgin  FROM -->
           <form method="post" action="validation.php" class="sign-up-form">

@@ -150,7 +150,7 @@
 <!-------link body------->
 <br></br>
 <h7>BTECH Civil Engineering</h7>
-div class="content">
+<div class="content">
                 <div class="container-fluid">
 
  <br>                   <p><b>Semester 1</b></p>

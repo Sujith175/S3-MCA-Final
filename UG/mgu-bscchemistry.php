@@ -158,61 +158,46 @@
 <!-------link body------->
 <br></br>
 <h7>BSC Chemistry</h7>
+<br>
             <div class="content">
                 <div class="container-fluid">
 
                     <p>Semester 1</p>
-          <div class="alert alert-primary alert-with-icon">
-           
-            <span data-notify="icon" class="tim-icons icon-coins"></span>
-            <span>
-              <b> put link- </b> here</span>  <!------put material link here----->
-          </div>
-
-
+          
+                    <span data-notify="icon" class="tim-icons icon-coins"></span>
+          <span><a href="https://drive.google.com/file/d/1jElRwVafCRjtkSkNHIgTwFUrkp5-mlw5/view?usp=sharing"><b>semester 1<b></a></span> <br>
+<br>
+ 
           <p>Semester 2</p>
-          <div class="alert alert-primary alert-with-icon">
-           
-            <span data-notify="icon" class="tim-icons icon-coins"></span>
-            <span>
-              <b> put link- </b> here</span>  <!------put material link here----->
-          </div>
-                        
+          
+          <span data-notify="icon" class="tim-icons icon-coins"></span>
+          <span><a href="https://drive.google.com/file/d/1KzuacbqFIy89xEMAEw57dBKh-G0ctZP3/view?usp=sharing"><b>semester 2<b></a></span> <br>       
         
 
+<br>
            <p>Semester 3</p>
-          <div class="alert alert-primary alert-with-icon">
-            
-            <span data-notify="icon" class="tim-icons icon-coins"></span>
-            <span>
-              <b> put link- </b> here</span>  <!------put material link here----->
-          </div>
+           <span data-notify="icon" class="tim-icons icon-coins"></span>
+          <span><a href="https://drive.google.com/file/d/1k44ZuK5wSfF43_R1VqbnyJWr_8nJ-kPB/view?usp=sharing"><b>semester 3<b></a></span> <br>
+
+<br>
 
           <p>Semester 4</p>
-          <div class="alert alert-primary alert-with-icon">
-            <button type="button" aria-hidden="true" class="close" data-dismiss="alert">
-              <i class="tim-icons icon-simple-remove"></i>
-            </button>
-            <span data-notify="icon" class="tim-icons icon-coins"></span>
-            <span>
-              <b> put link- </b> here</span>  <!------put material link here----->
-          </div>
-                  
-          <p>Semester 5</p>
-          <div class="alert alert-primary alert-with-icon">
-           
-            <span data-notify="icon" class="tim-icons icon-coins"></span>
-            <span>
-              <b> put link- </b> here</span>  <!------put material link here----->
-          </div>
+          <span data-notify="icon" class="tim-icons icon-coins"></span>
+          <span><a href="https://drive.google.com/file/d/14QPYlBC6ks5Yui_fn9DheUzpqjLcRhPZ/view?usp=sharing"><b>semester 4<b></a></span> <br>
 
+
+ <br>
+
+          <p>Semester 5</p>
+          
+          <span data-notify="icon" class="tim-icons icon-coins"></span>
+          <span><a href="https://drive.google.com/file/d/1M4s42xc7KkYm1HPpPpzzKPqlOtiPltDS/view?usp=sharing"><b>semester 5<b></a></span> <br>
+          
+  <br>        
           <p>Semester 6</p>
-          <div class="alert alert-primary alert-with-icon">
-           
-            <span data-notify="icon" class="tim-icons icon-coins"></span>
-            <span>
-              <b> put link- </b> here</span>  <!------put material link here----->
-          </div>
+
+          <span data-notify="icon" class="tim-icons icon-coins"></span>
+          <span><a href="https://drive.google.com/file/d/19DfsdHUxrqnVsRffa5MSJlvvrxgnxBr0/view?usp=sharing"><b>semester 6<b></a></span> <br>
 
            </div>
            </div>
@@ -238,11 +223,7 @@
                                 </a>
                             </li>
                         
-                            <li>
-                                <a href="#">
-                                    Portfolio
-                                </a>
-                            </li>
+                        
                             <li>
                                 <a href="#">
                                     Blog

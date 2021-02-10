@@ -218,7 +218,7 @@
                         <div class="card-body">
                           
                           <p class="card-text">Electronics and Communication Engineering</p>
-                          <a href="btech-E&C.php" class="btn btn-primary">Go to Materials</a>
+                          <a href="btechE&C.php" class="btn btn-primary">Go to Materials</a>
                         </div>
                       </div>
 

@@ -158,61 +158,43 @@
 <!-------link body------->
 <br></br>
 <h7>BSC Chemistry</h7>
+<br>
             <div class="content">
                 <div class="container-fluid">
 
+ <br>
                     <p>Semester 1</p>
-          <div class="alert alert-primary alert-with-icon">
-           
-            <span data-notify="icon" class="tim-icons icon-coins"></span>
-            <span>
-              <b> put link- </b> here</span>  <!------put material link here----->
-          </div>
+          
+                    <span data-notify="icon" class="tim-icons icon-coins"></span>
+        
+        <span><a href="https://books.google.co.in/books?id=fkxLAgAAQBAJ&lpg=PR2&pg=PR10#v=onepage&q&f=false"><b>semester 1<b></a></span> <br>
+  
+    <br>
+
 
 
           <p>Semester 2</p>
-          <div class="alert alert-primary alert-with-icon">
-           
-            <span data-notify="icon" class="tim-icons icon-coins"></span>
-            <span>
-              <b> put link- </b> here</span>  <!------put material link here----->
-          </div>
-                        
+          <span data-notify="icon" class="tim-icons icon-coins"></span>
+          <span><a href="https://drive.google.com/file/d/1k44ZuK5wSfF43_R1VqbnyJWr_8nJ-kPB/view?usp=sharing"><b>semester 2<b></a></span> <br>          
         
-
+<br>
            <p>Semester 3</p>
-          <div class="alert alert-primary alert-with-icon">
-            
-            <span data-notify="icon" class="tim-icons icon-coins"></span>
-            <span>
-              <b> put link- </b> here</span>  <!------put material link here----->
-          </div>
-
+           <span data-notify="icon" class="tim-icons icon-coins"></span>
+           <span><a href="https://drive.google.com/file/d/1vm4N7GvWDmoNGsuESmGe61LkUDCqE6oL/view?usp=sharing"><b>semester 1<b></a></span> <br>
+ <br>          
           <p>Semester 4</p>
-          <div class="alert alert-primary alert-with-icon">
-            <button type="button" aria-hidden="true" class="close" data-dismiss="alert">
-              <i class="tim-icons icon-simple-remove"></i>
-            </button>
-            <span data-notify="icon" class="tim-icons icon-coins"></span>
-            <span>
-              <b> put link- </b> here</span>  <!------put material link here----->
-          </div>
-                  
+          <span data-notify="icon" class="tim-icons icon-coins"></span>
+          <span><a href="https://drive.google.com/file/d/1hn1x2Yx0JrDPOql3HEK7ad69ru4AAp1H/view?usp=sharing"><b>semester 1<b></a></span> <br>
+<br>          
           <p>Semester 5</p>
-          <div class="alert alert-primary alert-with-icon">
-           
-            <span data-notify="icon" class="tim-icons icon-coins"></span>
-            <span>
-              <b> put link- </b> here</span>  <!------put material link here----->
-          </div>
-
+          <span data-notify="icon" class="tim-icons icon-coins"></span>
+          <span><a href="https://drive.google.com/file/d/1jElRwVafCRjtkSkNHIgTwFUrkp5-mlw5/view?usp=sharing"><b><b></a></span> <br>
+<br>          
           <p>Semester 6</p>
-          <div class="alert alert-primary alert-with-icon">
-           
-            <span data-notify="icon" class="tim-icons icon-coins"></span>
-            <span>
-              <b> put link- </b> here</span>  <!------put material link here----->
-          </div>
+          <span data-notify="icon" class="tim-icons icon-coins"></span>
+          <span><a href="https://drive.google.com/file/d/19DfsdHUxrqnVsRffa5MSJlvvrxgnxBr0/view?usp=sharing"><b><b></a></span> <br>
+         
+
 
            </div>
            </div>
@@ -238,11 +220,7 @@
                                 </a>
                             </li>
                         
-                            <li>
-                                <a href="#">
-                                    Portfolio
-                                </a>
-                            </li>
+                         
                             <li>
                                 <a href="#">
                                     Blog

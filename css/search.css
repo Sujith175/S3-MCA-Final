@@ -1,0 +1,21 @@
+.dropdown-menu {
+    
+    height: 450px;
+    overflow-y: auto;
+  }
+  
+  .dropdown-menu li {
+    background-color: #eee;
+    color: black;
+    display: block;
+    padding: 12px;
+    text-decoration: none;
+  }
+  
+  .dropdown-menu li:hover {
+    background-color: #ccc;
+  }
+  
+  .dropdown-menu li.active {
+    background-color: #4CAF50;
+    color: white;

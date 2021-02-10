@@ -157,64 +157,59 @@
 <!-------link body------->
 <br></br>
 <h7>BBA Bachelor of Business Administration</h7>
-            <div class="content">
+<br></br>
+         <div class="content">
                 <div class="container-fluid">
-
                     <p>Semester 1</p>
-          <div class="alert alert-primary alert-with-icon">
-           
             <span data-notify="icon" class="tim-icons icon-coins"></span>
-            <span>
-              <b> put link- </b> here</span>  <!------put material link here----->
-          </div>
-
+            <span><a href="https://drive.google.com/file/d/1ZCSBwZ77QUkeDtMDPcs154K8ScGRFuF0/view?usp=sharing"><b>Enviornmental Studies<b></a></span> <br>
+            <span><a href="https://drive.google.com/file/d/11MCKJSAIsI91_31lP5AXSIOh4PLjj1ZB/view?usp=sharing"><b> Fundamentals of Management<b></a></span> <br>
+            <span><a href="https://drive.google.com/file/d/1hx8LGUkYRC25kuePK5d69e9fjrzVBG0f/view?usp=sharing"><b>Managerial Economics<b></a></span> <br>
+            <span><a href="https://drive.google.com/file/d/12nDRBdtvI74CiKDR_WxiTVrv1nsZJ9CC/view?usp=sharing"><b>financial Accounting<b></a></span> <br>
+          
+<br>
 
           <p>Semester 2</p>
-          <div class="alert alert-primary alert-with-icon">
-           
             <span data-notify="icon" class="tim-icons icon-coins"></span>
-            <span>
-              <b> put link- </b> here</span>  <!------put material link here----->
-          </div>
-                        
+            <span><a href="https://drive.google.com/file/d/13vlEtuRbRFMDFeO9PNe_moB_AVTj7jQJ/view?usp=sharing"><b>E Commerce and Cyber Law<b></a></span> <br>
+            <span><a href="https://drive.google.com/file/d/1GzdftPhE5_pIOOfO9bE4rvNiHGTWxTE7/view?usp=sharing"><b>Marketing Management<b></a></span> <br>
+            <span><a href="https://drive.google.com/file/d/16gAVFeO-PL0pB-U7fzk3ZRTZgo0NGWFW/view?usp=sharing"><b>Human Resource Management<b></a></span> <br>
+            <span><a href="https://drive.google.com/file/d/1QzgfR02nO4XEjvy1R2h8o5QTuJ8FuaZ5/view?usp=sharing"><b>Financial Management<b></a></span> <br>
+            <span><a href="https://drive.google.com/file/d/1AdrO8JHMrx7ZvMwaJbqq_dYELUSyghqg/view?usp=sharing"><b> Business Regulatory FrameWork<b></a></span> <br>
+         
+         
+    <br>                    
         
 
            <p>Semester 3</p>
-          <div class="alert alert-primary alert-with-icon">
+          
             
             <span data-notify="icon" class="tim-icons icon-coins"></span>
-            <span>
-              <b> put link- </b> here</span>  <!------put material link here----->
-          </div>
-
+            <span><a href="https://drive.google.com/file/d/1fcVeBXHYnA9mTBn-joPnwwxvq27kLvpf/view?usp=sharing"><b> Business Enviornment & Policy<b></a></span> <br>
+            <span><a href="https://drive.google.com/file/d/1PT6zZhJyPMUpcHPao0sXlq41Pu-i_Zjp/view?usp=sharing"><b>Corporate Regulations<b></a></span> <br>
+            <span><a href="https://drive.google.com/file/d/17z0IiACOZtsKG-tkCmEoUo0FKWMOGDiZ/view?usp=sharing"><b>Cost & Management Accounting<b></a></span> <br>
+            <span><a href="https://drive.google.com/file/d/1Y0-IDYCjE5Aq_0p9JvvkCEHugIjQCIlx/view?usp=sharing"><b>Services Marketing<b></a></span> <br>
+            <span><a href="https://drive.google.com/file/d/15Xr5LZ0_ZePBu8KrkThQsdMLOLhJBjKJ/view?usp=sharing"><b>Labour Law & Industrial Relations<b></a></span> <br>
+          
+<br>
           <p>Semester 4</p>
-          <div class="alert alert-primary alert-with-icon">
-            <button type="button" aria-hidden="true" class="close" data-dismiss="alert">
-              <i class="tim-icons icon-simple-remove"></i>
-            </button>
             <span data-notify="icon" class="tim-icons icon-coins"></span>
-            <span>
-              <b> put link- </b> here</span>  <!------put material link here----->
-          </div>
-                  
-          <p>Semester 5</p>
-          <div class="alert alert-primary alert-with-icon">
-           
+            <span><a href="https://drive.google.com/file/d/1tRNtz1x8izcCGeQBYiPMvny7CN8i4-60/view?usp=sharing"><b>Enterprenuership Development<b></a></span> <br>
+            <span><a href="https://drive.google.com/file/d/1ThM5jXPOXpl1CzP4L4XTe6Jr-5y1Bw-6/view?usp=sharing"><b>Business Ethics And Corporate Governance<b></a></span> <br>
+          
+   <br>               
+          <p>Semester 5</p> 
             <span data-notify="icon" class="tim-icons icon-coins"></span>
-            <span>
-              <b> put link- </b> here</span>  <!------put material link here----->
-          </div>
-
+            <span><a href="https://drive.google.com/file/d/1ZkSWKQ6K_VX3oBxBBWsu6xlAXCrVvjCu/view?usp=sharing"><b>Quantitative Technique For Management<b></a></span> <br>
+            <span><a href=""><b>Operations Management<b></a></span> <br>
+          
+<br>
           <p>Semester 6</p>
-          <div class="alert alert-primary alert-with-icon">
-           
             <span data-notify="icon" class="tim-icons icon-coins"></span>
-            <span>
-              <b> put link- </b> here</span>  <!------put material link here----->
-          </div>
-
-           </div>
-           </div>
+            
+            <span><a href=""><b>Not Yet<b></a></span> <br>
+         </div>
+         </div>
                  <!-------------------link body end--------------------->  
                         <p>
                         </br>

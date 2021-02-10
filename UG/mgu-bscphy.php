@@ -178,7 +178,7 @@
 
 <br>
           <p>Semester 2</p>
-   <      
+       
             <span data-notify="icon" class="tim-icons icon-coins"></span>
             <span><a href="https://drive.google.com/file/d/1phLjkqb8YQnkNGu_OxjZig8c7dr3OTUI/view?usp=sharing"><b>Optics<b></a></span> <br>
             <span><a href="https://drive.google.com/file/d/1xB0jej6K49_WHUKOS6Me2tjtKJR1V-5I/view?usp=sharing"><b>Interference and Diffraction<b></a></span> <br>
@@ -197,8 +197,8 @@
             <span><a href="https://drive.google.com/file/d/14xZiI75aypP-H-AIcpXldxSWLbgoznoj/view?usp=sharing"><b>Chemistry Unit 1<b></a></span> <br>
             <span><a href="https://drive.google.com/file/d/1vACM0DqXUrpsa0DabAGKyxf2MSNL7uFG/view?usp=sharing"><b>Chemistry Unit 1 Conti...<b></a></span> <br>
             <span><a href="https://drive.google.com/file/d/1McVciD5NeRfRqTs5kM2Mm9UZnMtjgLK5/view?usp=sharing"><b><b>Chemistry Unit 2</a></span> <br>
-            <span><a href="https://drive.google.com/file/d/1fLp8qpeMtQ1k7n-y9FlP-H6fJXXuB3Cc/view?usp=sharing"><b><b></a>Chemistry Unit 3</span> <br>
-            <span><a href="https://drive.google.com/file/d/1W6gIRnVDOo5m1IX_R3YU9_0xEKoTpn6G/view?usp=sharing"><b><b></a>Chemistry Unit 4</span> <br>
+            <span><a href="https://drive.google.com/file/d/1fLp8qpeMtQ1k7n-y9FlP-H6fJXXuB3Cc/view?usp=sharing"><b>Chemistry Unit 3</span> <br>
+            <span><a href="https://drive.google.com/file/d/1W6gIRnVDOo5m1IX_R3YU9_0xEKoTpn6G/view?usp=sharing"><b>Chemistry Unit 4</span> <br>
             <span><a href="https://drive.google.com/file/d/1lp5DaY_qEkhVKtAxCvERzjE4SjdvmImt/view?usp=sharing"><b>Optics and Semiconductors Physics Unit 1<b></a></span> <br>
             <span><a href="https://drive.google.com/file/d/1bQgjgWhQZjN2RhS8pMC6ZCJP3Yy8syog/view?usp=sharing"><b>Optics and Semiconductors Physics Unit 2<b></a></span> <br>
             <span><a href="https://drive.google.com/file/d/1AP9eoDgGxkbmKqPoclG3Vx1oF12olABv/view?usp=sharing"><b>Optics and Semiconductors Physics Unit 3<b></a></span> <br>

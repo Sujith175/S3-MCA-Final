@@ -157,61 +157,67 @@
 <!-------link body------->
 <br></br>
 <h7>BSC-Computer Science</h7>
+<br>
             <div class="content">
                 <div class="container-fluid">
 
                     <p>Semester 1</p>
-          <div class="alert alert-primary alert-with-icon">
+          
            
             <span data-notify="icon" class="tim-icons icon-coins"></span>
-            <span>
-              <b> put link- </b> here</span>  <!------put material link here----->
-          </div>
+            <span><a href="https://drive.google.com/file/d/1mvqmIcaFEzUUkDn4d5L9wV1YY7ORQUMw/view?usp=sharing"><b>Computer Fundamentals and Digital Principles (Core)<b></a></span> <br>
+            <span><a href="https://drive.google.com/file/d/1dAkAMMumzl3gdiGT3qqH0C9GxmZ9DTtl/view?usp=sharing"><b>Methodology Of Programming And C Language (Core)<b></a></span> <br>
+           <span><a href="https://drive.google.com/file/d/1L84do_m8iHrtGGXf2rMPXfNPMRsjg_qW/view?usp=sharing"><b>Fundamentals of Digital Systems (Complementary)<b></a></span> <br>
+          
 
-
+<br>
           <p>Semester 2</p>
-          <div class="alert alert-primary alert-with-icon">
+          
            
             <span data-notify="icon" class="tim-icons icon-coins"></span>
-            <span>
-              <b> put link- </b> here</span>  <!------put material link here----->
-          </div>
+            <span><a href="https://drive.google.com/file/d/1oNjNbFRQhIv-t5tOCfOxXcZpNQO4w2gI/view?usp=sharing"><b>Computer organizationd and structure<b></a></span> <br>
+            <span><a href="https://drive.google.com/file/d/1s7A-kuVZQnK_e9x3vV8RW7nU2NJ-rmYf/view?usp=sharing"><b>Object Orienter programming using c++<b></a></span> <br>
+           <span><a href="https://drive.google.com/file/d/1Sty-jkUozocd8LOBOwoj2y1FI3vPustB/view?usp=sharing"><b>Data Communications<b></a></span> <br>
+         
                         
-        
+ <br>       
 
            <p>Semester 3</p>
-          <div class="alert alert-primary alert-with-icon">
+          
             
             <span data-notify="icon" class="tim-icons icon-coins"></span>
-            <span>
-              <b> put link- </b> here</span>  <!------put material link here----->
-          </div>
-
+            <span><a href="https://drive.google.com/file/d/1S36B6mfU0J_w4wksIK0QrH_SXDm8yYGP/view?usp=sharing "><b>Database management system<b></a></span> <br>
+            <span><a href=" https://drive.google.com/file/d/10--w56VLojbNflXFLKoBt0Y37FifvF5k/view?usp=sharing"><b>System analysis and design <b></a></span> <br>
+           <span><a href=" https://drive.google.com/file/d/1CF0NYm43ti6OVWQdall-8C7Ssr9HPjWj/view?usp=sharing"><b>Networking fundamentals<b></a></span> <br>
+          
+<br>
           <p>Semester 4</p>
-          <div class="alert alert-primary alert-with-icon">
-            <button type="button" aria-hidden="true" class="close" data-dismiss="alert">
-              <i class="tim-icons icon-simple-remove"></i>
-            </button>
-            <span data-notify="icon" class="tim-icons icon-coins"></span>
-            <span>
-              <b> put link- </b> here</span>  <!------put material link here----->
-          </div>
-                  
-          <p>Semester 5</p>
-          <div class="alert alert-primary alert-with-icon">
+          
            
             <span data-notify="icon" class="tim-icons icon-coins"></span>
-            <span>
-              <b> put link- </b> here</span>  <!------put material link here----->
-          </div>
+            <span><a href="https://drive.google.com/file/d/10NnPjUvBTHfStDaKY-1tOweSnDz88Wza/view?usp=sharing "><b> Microprocessors and Assembly Language Programming (Complementary)<b></a></span> <br>
+            <span><a href="https://drive.google.com/file/d/1mE3cB4xDrtTRzrFKomko_bTwesN6VEjJ/view?usp=sharing "><b>Computer Aided Optimization Techniques (core) <b></a></span> <br>
+           <span><a href=" https://drive.google.com/file/d/1HuwXTXO9pLYkuoqK-GJzoZ0odrdjtcRw/view?usp=sharing"><b>Web programming using PHP <b></a></span> <br>
+         
+<br>                  
+          <p>Semester 5</p>
+          
+           
+            <span data-notify="icon" class="tim-icons icon-coins"></span>
+            <span><a href=" https://drive.google.com/file/d/12U3Hbfb38uPzhpW6E1eB0tMTDHB-Y1_d/view?usp=sharing"><b>IT and enviornment <b></a></span> <br>
+            <span><a href=" https://drive.google.com/file/d/1jkd8HcnhOPoiNEKl8vV0hAwFNajdkcAZ/view?usp=sharing"><b>Java programming using linux <b></a></span> <br>
+           <span><a href=" https://drive.google.com/file/d/1-N19KLkfORSitUYmG67MmCB9Q1ibentq/view?usp=sharing"><b>Computer security <b></a></span> <br>
+         
+<br>
 
           <p>Semester 6</p>
-          <div class="alert alert-primary alert-with-icon">
+          
            
             <span data-notify="icon" class="tim-icons icon-coins"></span>
-            <span>
-              <b> put link- </b> here</span>  <!------put material link here----->
-          </div>
+            <span><a href=" https://drive.google.com/file/d/1G2P0FLPoqifSKUmw9jdjhgy23foBYu5T/view?usp=sharing"><b> Computer graphics<b></a></span> <br>
+            <span><a href="https://drive.google.com/file/d/1Xv3D8TVTjk6XQtP8FUINo65PFvp2zH3Z/view?usp=sharing "><b>Big Data Analysis <b></a></span> <br>
+           
+       
 
            </div>
            </div>

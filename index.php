@@ -3,23 +3,15 @@
 <?php
 
 session_start();
-if(isset($_SESSION['username']))
+if(isset($_SESSION["username"]))
 {
-    $username = $_SESSION['username'];
+    
 }
 else
 {
     echo"session not started";
     $_SESSION['msg']="you must login first to view this page";
-    header("location:signin.html");
-}
-
-if(isset($_GET['logout']))
-{
-    echo"logout";
-    session_destroy();
-    unset($_SESSION['username']);
-    header("location:signin.html");
+    header("location:signin.php");
 }
 
 ?>
@@ -54,6 +46,8 @@ if(isset($_GET['logout']))
     <link rel="stylesheet" href="css/responsive.css" />
     <!-- Custom CSS -->
     <link rel="stylesheet" href="css/custom.css" />
+    <!-- search scroll CSS -->
+    <link rel="stylesheet" href="css/search.css" />
 
     <!--[if lt IE 9]>
       <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
@@ -90,15 +84,54 @@ if(isset($_GET['logout']))
                         <li><a class="nav-link" href="./pg/courses.html">Courses</a></li>
 						<li><a class="nav-link" href="news.html">News</a></li>
 						<li><a class="nav-link" href="contact.html">Contact us</a></li>
-                        <li><a class="nav-link" href=""><?php echo($username); ?></a></li>
+                        <li><a class="nav-link" href="logout.php"><?php echo($_SESSION['username']); ?> :LOGOUT</a></li>
+                        <li class="nav-item dropdown">
+                                <a class="nav-link dropdown-toggle" href="http://example.com" id="navbarDropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                                    <span class="no-icon">SEARCH</span>
+                                    <img src="images/search_icon.png" alt="#" />
+                                </a>
+                                <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
+                                <input type="text" id="mySearch" onkeyup="myFunction()" placeholder="Search.." title="Type in a category">
+                                        <ul id="myMenu">
+                                        <li><a href="10th/10th_cbsc.html">TENTH CBSE</a></li>
+                                        <li><a href="10th/10th_icsc.html">TENTH ICSE</a></li>
+                                        <li><a href="10th/10th_kerala_home.html">TENTH KERALA</a></li>
+                                        <li><a href="12th/12th_cbsc.html">TWELTH CBSE</a></li>
+                                        <li><a href="12th/12th_icsc.html">TWELTH ICSE</a></li>
+                                        <li><a href="12th/12th_kerala.html">TWELTH KERALA</a></li>
+                                        <li><a href="12th/cbsc_plusone.html">PLUS ONE CBSE</a></li>
+                                        <li><a href="12th/icsc_plusone.html">PLUS ONE ICSE</a></li>
+                                        <li><a href="12th/kerala_plusone-home.html">PLUS ONE KERALA</a></li>
+                                        <li><a href="UG/BBA.php">BBA</a></li>
+                                        <li><a href="UG/BCA.php">BCA</a></li>
+                                        <li><a href="UG/bsc-computer_Science.php">COMPUTER SCIENCE</a></li>
+                                        <li><a href="UG/BSC%20Physics.php">BSC PHYSICS</a></li>
+                                        <li><a href="UG/BSC%20maths.php">BSC MATHEMATICS</a></li>
+                                        <li><a href="UG/BSC%20chemistry.php">BSC CHEMISTRY</a></li>
+                                        <li><a href="UG/BSC%20chemistry.php">BTECH</a></li>
+                                        <li><a href="UG/BSC_biotechnology.php">BSC BIOTECHNOLOGY</a></li>
+                                        <li><a href="PG/MCA.html">MCA</a></li>
+                                        <li><a href="PG/MTECH.html">MTECH</a></li>
+                                        <li><a href="PG/msc-comp.html">MSC COMPUTER SCIENCE</a></li>
+                                        <li><a href="PG/msc-physics.html">MSC PHYSICS</a></li>
+                                        <li><a href="PG/MSC-Maths.html">MSC MATHEMATICS</a></li>
+                                        <li><a href="PG/MSC-chemistry.html">MSC CHEMISTRY</a></li>
+                                        <li><a href="PG/MSC-Botany.html">MSC BOTANY</a></li>
+                                        <li><a href="PG/MSC-Zoology.html">MSC ZOOLOGY</a></li>
+                                        <li><a href="PG/mtechchemical.html">MTECH CHEMICAL ENGINEERING</a></li>
+                                        <li><a href="PG/Mtech-computer.html">MTECH COMPUTER ENGINEERING</a></li>
+                                        <li><a href="PG/mtech-electrical.html">ELECTRICAL ENGINEERING</a></li>
+                                        <li><a href="PG/mtech-mechanical.html">MTECH MECHANICAL</a></li>
+                                        <li><a href="PG/mtech-E&C.html">MTECH ELECTRONICS AND COMMUNICATION</a></li>
+                                        <li><a href="PG/mtech-civil.html">CIVIL ENGINEERING</a></li>
+                                         </ul>
+                                                                       
+                                </div>
+                            </li>
                     </ul>
                 </div>
-                <div class="search-box">
-                    <input type="text" class="search-txt" placeholder="Search">
-                    <a class="search-btn">
-                        <img src="images/search_icon.png" alt="#" />
-                    </a>
-                </div>
+                
+                
             </div>
         </nav>
     </header>
@@ -438,6 +471,21 @@ if(isset($_GET['logout']))
     <script src="js/images-loded.min.js"></script>
     <script src="js/custom.js"></script>
 	<script>
+                    function myFunction() {
+            var input, filter, ul, li, a, i;
+            input = document.getElementById("mySearch");
+            filter = input.value.toUpperCase();
+            ul = document.getElementById("myMenu");
+            li = ul.getElementsByTagName("li");
+            for (i = 0; i < li.length; i++) {
+                a = li[i].getElementsByTagName("a")[0];
+                if (a.innerHTML.toUpperCase().indexOf(filter) > -1) {
+                li[i].style.display = "";
+                } else {
+                li[i].style.display = "none";
+                }
+            }
+            }
 	/* counter js */
 
 (function ($) {

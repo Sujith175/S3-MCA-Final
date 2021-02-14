@@ -27,7 +27,7 @@
        
             <div class="sidebar-wrapper">
                 <div class="logo">
-                    <a href="/index.php" class="simple-text">
+                    <a href="../index.php" class="simple-text">
                         Learnso
                     </a>
                 </div>
@@ -144,7 +144,7 @@
                                 </div>
                             </li>
                             <li class="nav-item">
-                                <a class="nav-link" href="#pablo">
+                                <a class="nav-link" href="../logout.php">
                                     <span class="no-icon">Log out</span>
                                 </a>
                             </li>
@@ -157,61 +157,65 @@
 <!-------link body------->
 <br></br>
 <h7>BSC Computer Science</h7>
+<br>
             <div class="content">
                 <div class="container-fluid">
 
                     <p>Semester 1</p>
-          <div class="alert alert-primary alert-with-icon">
+        
            
             <span data-notify="icon" class="tim-icons icon-coins"></span>
-            <span>
-              <b> put link- </b> here</span>  <!------put material link here----->
-          </div>
-
-
+            <span><a href="https://drive.google.com/file/d/1IEnadEl2iypeZ3qHx_TeAReQvc1FdvA7/view?usp=sharing"><b>BV1131.2 Phycology Mycology, Lichenology,<b></a></span> <br>
+            <span><a href="https://drive.google.com/file/d/1wKEmKFfljvPTh5UCa-nWI-_ImFuYh1mu/view?usp=sharing"><b>BV1141.1 Phycology, Mycology, Lichenology & Phytopathology<b></a></span> <br>
+           <span><a href="https://drive.google.com/file/d/1wKEmKFfljvPTh5UCa-nWI-_ImFuYh1mu/view?usp=sharing"><b>BV1141.2 Animal Diversity – I Nonchordata<b></a></span> <br>
+         
+<br>
           <p>Semester 2</p>
-          <div class="alert alert-primary alert-with-icon">
+          
            
             <span data-notify="icon" class="tim-icons icon-coins"></span>
-            <span>
-              <b> put link- </b> here</span>  <!------put material link here----->
-          </div>
+            <span><a href="https://drive.google.com/file/d/1KR99OWhBfpnstGIiWqwns6bIshee8qz9/view?usp=sharing"><b>1331.2 Angiosperm Morphology, Systematic Botany, & Economic Botany<b></a></span> <br>
+            <span><a href="https://drive.google.com/file/d/1QHFvNu70G6niHQfToVQfHliHhSPfWH9k/view?usp=sharing"><b>BV1231.2 Plant Physiology, Angiosperm Anatomy & Reproductive Botany<b></a></span> <br>
+           <span><a href="https://drive.google.com/file/d/1LUJzV9qkJElaV3KXlEA7DngDvgP2BdGD/view?usp=sharing"><b>BV1241.2 Environmental Studies<b></a></span> <br>
+         
                         
         
-
+<br>
            <p>Semester 3</p>
-          <div class="alert alert-primary alert-with-icon">
+          
             
             <span data-notify="icon" class="tim-icons icon-coins"></span>
-            <span>
-              <b> put link- </b> here</span>  <!------put material link here----->
-          </div>
-
+            <span><a href="https://drive.google.com/file/d/14UTWwaLuEtfDVIhGarT6ngoJKhpub9oP/view?usp=sharing"><b>BV1341.1 Angiosperm Anatomy and Reproductive Botany<b></a></span> <br>
+            <span><a href="https://drive.google.com/file/d/1VB2DFJjGmCB9N3Nyh_FmEF4PBTopTFMz/view?usp=sharing"><b>BV1341.2 Developmental Biology and Reproductive Biology<b></a></span> <br>
+           <span><a href="https://drive.google.com/file/d/1Bszx3IYWgCFOuxvtKR5yooKz1U9m-4ef/view?usp=sharing"><b>BV1342.1Bryology, Pteridology, Gymnosperms & Paleobotany<b></a></span> <br>
+         
+<br>
           <p>Semester 4</p>
-          <div class="alert alert-primary alert-with-icon">
-            <button type="button" aria-hidden="true" class="close" data-dismiss="alert">
-              <i class="tim-icons icon-simple-remove"></i>
-            </button>
+          
+            
             <span data-notify="icon" class="tim-icons icon-coins"></span>
-            <span>
-              <b> put link- </b> here</span>  <!------put material link here----->
-          </div>
-                  
+            <span><a href="https://drive.google.com/file/d/1G1ZG47dxaOg9tHYg6aXzergWI7QYFwD3/view?usp=sharing"><b>BV 1442.1 Cell Biology, Plant Breeding & Evolutionary Biology<b></a></span> <br>
+            <span><a href="https://drive.google.com/file/d/14BatSPlOd9VItr3RoB_0gsYGpO6F9TgV/view?usp=sharing"><b>BV 1442.2 Cell Biology<b></a></span> <br>
+           <span><a href="https://drive.google.com/file/d/1wioAHHLBjsvDGHzU_fExARVHH_lSXBEE/view?usp=sharing"><b>BV1441.2 Animal Physiology<b></a></span> <br>
+        
+ <br>                 
           <p>Semester 5</p>
-          <div class="alert alert-primary alert-with-icon">
+          
            
             <span data-notify="icon" class="tim-icons icon-coins"></span>
-            <span>
-              <b> put link- </b> here</span>  <!------put material link here----->
-          </div>
-
+            <span><a href="https://drive.google.com/file/d/1ehti4n1ZlwqmeIEfAUxMIx4TlTqOh910/view?usp=sharing"><b>BV 1542.2 Genetics<b></a></span> <br>
+            <span><a href="https://drive.google.com/file/d/1I9jHtvE_-RvkdBkAwfUk77BgdUKhVoNK/view?usp=sharing"><b>BV1541.1 Angiosperm Morphology and Systematic Botany<b></a></span> <br>
+           <span><a href="https://drive.google.com/file/d/1Qd71UyDDWaTG5WZWNwp0RtcBveNlauVs/view?usp=sharing"><b>BV1541.2 Systematics, Biodiversity and Animal Behaviour<b></a></span> <br>
+          
+<br>
           <p>Semester 6</p>
-          <div class="alert alert-primary alert-with-icon">
+          
            
             <span data-notify="icon" class="tim-icons icon-coins"></span>
-            <span>
-              <b> put link- </b> here</span>  <!------put material link here----->
-          </div>
+            <span><a href="https://drive.google.com/file/d/18dSiIyF-4Rb79rHuO1UcCfxuRPJscP_2/view?usp=sharing"><b>BV1641.1 - GENETICS<b></a></span> <br>
+            <span><a href="https://drive.google.com/file/d/1_YrYGK4mj08SzMZDshNfNz81bFbysjEd/view?usp=sharing"><b>BV1641.2 Evolution<b></a></span> <br>
+           <span><a href="https://drive.google.com/file/d/1UtKo4DqRkQbta3v4nncA-kTdnKtOy_k2/view?usp=sharing"><b>BV1643.1 Mushroom Cultivation and Marketing<b></a></span> <br>
+         
 
            </div>
            </div>

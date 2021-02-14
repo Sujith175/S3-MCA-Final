@@ -33,14 +33,14 @@
                 </div>
                 <ul class="nav">
                     <li >
-                        <a class="nav-link" href="kerala-MCA-regular.php">
+                        <a class="nav-link" href="BBA.php">
                             <i class="nc-icon nc-notes"></i>
                             <p>BBA</p>
                         </a>
                     </li>
                     
                     <li>
-                        <a class="nav-link" href="#">
+                        <a class="nav-link" href="BCA.php">
                             <i class="nc-icon nc-notes"></i>
                             <p>BCA</p>
                         </a>
@@ -145,7 +145,7 @@
                                 </div>
                             </li>
                             <li class="nav-item">
-                                <a class="nav-link" href="#pablo">
+                                <a class="nav-link" href="../logout.php">
                                     <span class="no-icon">Log out</span>
                                 </a>
                             </li>
@@ -158,64 +158,68 @@
 <!-------link body------->
 <br></br>
 <h7>BSC Mathematics</h7>
-            <div class="content">
+<br>
+<div class="content">
                 <div class="container-fluid">
-
                     <p>Semester 1</p>
-          <div class="alert alert-primary alert-with-icon">
-           
+          
+           <br>
             <span data-notify="icon" class="tim-icons icon-coins"></span>
-            <span>
-              <b> put link- </b> here</span>  <!------put material link here----->
-          </div>
-
-
-          <p>Semester 2</p>
-          <div class="alert alert-primary alert-with-icon">
-           
-            <span data-notify="icon" class="tim-icons icon-coins"></span>
-            <span>
-              <b> put link- </b> here</span>  <!------put material link here----->
-          </div>
-                        
+        
+            <span><a href="https://drive.google.com/file/d/1icGGlqPh1yAUeCRnRE-vZYdMwoAn6951/view?usp=sharing"><b>Foundation of Mathematics<b></a></span> <br>
         
 
-           <p>Semester 3</p>
-          <div class="alert alert-primary alert-with-icon">
-            
+<br>
+          <p>Semester 2</p>
+          <br>
             <span data-notify="icon" class="tim-icons icon-coins"></span>
-            <span>
-              <b> put link- </b> here</span>  <!------put material link here----->
-          </div>
+            <span><a href="https://drive.google.com/file/d/1JAjXKewVqH1IB9fG339rUhhOYkMs-v0S/view?usp=sharing"><b>Analytic Geometry, Trignometry and Differential Calculus<b></a></span> <br>
+
+            
+          
+                        
+<br>
+
+           <p>Semester 3</p>
+           <br>
+            <span data-notify="icon" class="tim-icons icon-coins"></span>
+            <span><a href="https://drive.google.com/file/d/1MamUYVKHgbs9CmmudelZzrqwt9ZlSiFx/view?usp=sharing"><b>Calculus<b></a></span> <br>
+            <span><a href=""><b><b></a></span> <br>
+
+<br>         
 
           <p>Semester 4</p>
-          <div class="alert alert-primary alert-with-icon">
-            <button type="button" aria-hidden="true" class="close" data-dismiss="alert">
-              <i class="tim-icons icon-simple-remove"></i>
-            </button>
-            <span data-notify="icon" class="tim-icons icon-coins"></span>
-            <span>
-              <b> put link- </b> here</span>  <!------put material link here----->
-          </div>
+          <br>
+         <span data-notify="icon" class="tim-icons icon-coins"></span>
+         <span><a href="https://drive.google.com/file/d/1gKBnhYpyugm6KoyAo7klELQR4ZX7EvRT/view?usp=sharing"><b>Vector Calculus,Theory Of Numbers And Laplace Transform <b></a></span> <br>
+
+           
+           
+ <br>             
                   
           <p>Semester 5</p>
-          <div class="alert alert-primary alert-with-icon">
-           
+          <br>
             <span data-notify="icon" class="tim-icons icon-coins"></span>
-            <span>
-              <b> put link- </b> here</span>  <!------put material link here----->
-          </div>
-
+            <span><a href="https://drive.google.com/file/d/1PwFekSm6ikSZT2zVaQk_bzsrK080B2zJ/view?usp=sharing"><b>Matematical Analysis<b></a></span> <br>
+            <span><a href="https://drive.google.com/file/d/1jgWW2Sh6jrzvNFmiggFHECUUSs97ohk9/view?usp=sharing"><b>Differential Equations<b></a></span> <br>
+            <span><a href="https://drive.google.com/file/d/1Bv9O88UWzR45GVi6LR9hMglT_HvLY82S/view?usp=sharing"><b>Abstract Algebra<b></a></span> <br>
+            <span><a href="https://drive.google.com/file/d/1CmDaoPJCJoNIBoatl3u8dSIbyslxGJ9V/view?usp=sharing"><b>Human Rights And Mathematics For Enviornmental Studies<b></a></span> <br>
+          
+           
+            
+            
+<br>
           <p>Semester 6</p>
-          <div class="alert alert-primary alert-with-icon">
-           
+          <br>
             <span data-notify="icon" class="tim-icons icon-coins"></span>
-            <span>
-              <b> put link- </b> here</span>  <!------put material link here----->
-          </div>
+            <span><a href="https://drive.google.com/file/d/1M0Rban1G81yQcGhI96fZ9dBe1KyCsr3c/view?usp=sharing"><b>Real Ananlysis <b></a></span> <br>
+            <span><a href="https://drive.google.com/file/d/1F_eG1VlSUySVZ1sxh9L_2l_CbculuOk9/view?usp=sharing"><b>Graph Theory <b></a></span> <br>
+            <span><a href="https://drive.google.com/file/d/1GJdMDsPWBTAwjhDp_N4U7hIqUO_YfeFG/view?usp=sharing"><b>Complex Analysis <b></a></span> <br>
+            <span><a href="https://drive.google.com/file/d/1ydLqB5SvPEEU22hzRp-zB1MJQdiMTFXe/view?usp=sharing"><b>Linear Algebra<b></a></span> <br>
 
-           </div>
-           </div>
+
+          </div>
+          </div>
                  <!-------------------link body end--------------------->  
                         <p>
                         </br>

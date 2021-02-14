@@ -27,7 +27,7 @@
        
             <div class="sidebar-wrapper">
                 <div class="logo">
-                    <a href="#" class="simple-text">
+                    <a href="../index.php" class="simple-text">
                         Learnso
                     </a>
                 </div>
@@ -149,7 +149,7 @@
                                 </div>
                             </li>
                             <li class="nav-item">
-                                <a class="nav-link" href="#pablo">
+                                <a class="nav-link" href="../logout.php">
                                     <span class="no-icon">Log out</span>
                                 </a>
                             </li>
@@ -162,61 +162,67 @@
 <!-------link body------->
 <br></br>
 <h7>BSC Biotechnology</h7>
+
+<br>
             <div class="content">
                 <div class="container-fluid">
 
          <p>Semester 1</p>
-          <div class="alert alert-primary alert-with-icon">
+          
            
             <span data-notify="icon" class="tim-icons icon-coins"></span>
-            <span>
-              <b> put link- </b> here</span>  <!------put material link here----->
-          </div>
+            <span><a href="https://drive.google.com/file/d/1jMniKPAVikHjchkgc8daqUo9c3xpKKL4/view?usp=sharing"><b>Core 2 - BT1CRT02 METHODOLOGY IN BIOTECHNOLOGY<b></a></span> <br>
+            <span><a href="https://drive.google.com/file/d/1jMniKPAVikHjchkgc8daqUo9c3xpKKL4/view?usp=sharing"><b>CORE 1  BT1CRT01 BASIC LIFE SCIENES<b></a></span> <br>
+           
+ <br>        
 
 
           <p>Semester 2</p>
-          <div class="alert alert-primary alert-with-icon">
+          
            
             <span data-notify="icon" class="tim-icons icon-coins"></span>
-            <span>
-              <b> put link- </b> here</span>  <!------put material link here----->
-          </div>
+            <span><a href="https://drive.google.com/file/d/19kl3A3sOr5ZwmRgIB20PArZCH7p-_7_g/view?usp=sharing"><b>Core 4 – BT2CRT03CELL BIOLOGY<b></a></span> <br>
+            <span><a href="https://drive.google.com/file/d/18SoheCpP2fSaicJTSSZ6pnEYQAKGgZWO/view?usp=sharing"><b>Core 6- BT2CRT05 EVOLUTIONARY BIOLOGY AND DEVELOPMENTAL<b></a></span> <br>
+           
+         
                         
-        
+  <br>      
 
            <p>Semester 3</p>
-          <div class="alert alert-primary alert-with-icon">
+          
             
             <span data-notify="icon" class="tim-icons icon-coins"></span>
-            <span>
-              <b> put link- </b> here</span>  <!------put material link here----->
-          </div>
+            <span><a href="https://drive.google.com/file/d/1L7-KPQJC8WHyPENUyNXNSRJiwm0emSuY/view?usp=sharing"><b>Core 8 - BT3CRT06 IMMUNOLOGY<b></a></span> <br>
+            <span><a href="https://drive.google.com/file/d/10Oni5oJUl8LKcTvX3iQMixEpHnbvtz6Y/view?usp=sharing"><b>Core 9- BT3CRT07 GENETICS<b></a></span> <br>
+           <span><a href="https://drive.google.com/file/d/1LBryhO-uTClzXhIITvHJoJZYk2X72NLZ/view?usp=sharing"><b>CORE10 BT3CRT08 BIOSTATISTICS AND COMPUTER APPLICATION<b></a></span> <br>
+<br>          
 
           <p>Semester 4</p>
-          <div class="alert alert-primary alert-with-icon">
-            <button type="button" aria-hidden="true" class="close" data-dismiss="alert">
-              <i class="tim-icons icon-simple-remove"></i>
-            </button>
+          
+            
             <span data-notify="icon" class="tim-icons icon-coins"></span>
-            <span>
-              <b> put link- </b> here</span>  <!------put material link here----->
-          </div>
-                  
+            <span><a href="https://drive.google.com/file/d/1O6xcIg0BTdfXxOe28sQ3vj-Eb3TF7nG_/view?usp=sharing"><b>Core 12 BT4CRT09 MOLECULAR BIOLOGY<b></a></span> <br>
+            <span><a href="https://drive.google.com/file/d/1ErYDlyqdWd7dHtsq6pzE84vqzVirRYBB/view?usp=sharing"><b>Core 14 - BT4CRT11 BIOPHYSICS AND BIOINFORMATICS<b></a></span> <br>
+           <span><a href="https://drive.google.com/file/d/1ANkOheUl2cLkW8j2_f1zKTid0WGTHOEi/view?usp=sharing"><b>Core13- BT4CRT10 ENZYMOLOGY<b></a></span> <br>
+       
+<br>                 
           <p>Semester 5</p>
-          <div class="alert alert-primary alert-with-icon">
+          
            
             <span data-notify="icon" class="tim-icons icon-coins"></span>
-            <span>
-              <b> put link- </b> here</span>  <!------put material link here----->
-          </div>
-
+            <span><a href="https://drive.google.com/file/d/1OdPBhyZqhCVQm6a7ockxHXsO1MjAVk0N/view?usp=sharing"><b>Core 16- BT5CRT12 RECOMBINANT DNA TECHNOLOGY<b></a></span> <br>
+            <span><a href="https://drive.google.com/file/d/1d5E0VMT-BNpO3cu1y64EgkjGArCN-mIj/view?usp=sharing"><b>CORE 17- BT5CRT13- ENVIRONMENTAL BIOTECHNOLOG<b></a></span> <br>
+           
+       
+<br>
           <p>Semester 6</p>
-          <div class="alert alert-primary alert-with-icon">
+          
            
             <span data-notify="icon" class="tim-icons icon-coins"></span>
-            <span>
-              <b> put link- </b> here</span>  <!------put material link here----->
-          </div>
+            <span><a href="https://drive.google.com/file/d/1k2ZMPmB7ofnsJXK8vXst3y-YyKWNxEL3/view?usp=sharing"><b>Core 21 BT6CRT15 PLANT BIOTECHNOLOGY<b></a></span> <br>
+            <span><a href="https://drive.google.com/file/d/1Y8fMnUjUPAyOH_x6883C0hW_jTb7Q2HO/view?usp=sharing"><b>Core 22– BT6CRT16 INDUSTRIAL BIOTECHNOLOGY<b></a></span> <br>
+           
+         
 
            </div>
            </div>

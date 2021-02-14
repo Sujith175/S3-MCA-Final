@@ -60,28 +60,28 @@
                     </li>
 
                     <li>
-                        <a class="nav-link" href="BSC Physics.php">
+                        <a class="nav-link" href="BSC maths.php">
                             <i class="nc-icon nc-notes"></i>
                             <p>BSC Mathematics</p>
                         </a>
                     </li>
 
                     <li>
-                        <a class="nav-link" href="BSC Physics.php">
+                        <a class="nav-link" href="BSC chemistry.php">
                             <i class="nc-icon nc-notes"></i>
                             <p>BSC Chemistry</p>
                         </a>
                     </li>
 
                     <li>
-                        <a class="nav-link" href="BSC Physics.php">
+                        <a class="nav-link" href="BTECH.php">
                             <i class="nc-icon nc-notes"></i>
                             <p>BTECH</p>
                         </a>
                     </li>
 
                     <li>
-                        <a class="nav-link" href="BSC Physics.php">
+                        <a class="nav-link" href="BSC_biotechnology.php">
                             <i class="nc-icon nc-notes"></i>
                             <p>BSC Biotechnology</p>
                         </a>
@@ -144,7 +144,7 @@
                                 </div>
                             </li>
                             <li class="nav-item">
-                                <a class="nav-link" href="#pablo">
+                                <a class="nav-link" href="../logout.php">
                                     <span class="no-icon">Log out</span>
                                 </a>
                             </li>
@@ -275,7 +275,7 @@
 <script src="../assets/js/plugins/chartist.min.js"></script>
 <!-- Control Center for Light Bootstrap Dashboard: scripts for the example pages etc -->
 <script src="../assets/js/light-bootstrap-dashboard.js?v=2.0.0 " type="text/javascript"></script>
-<!-- Light Bootstrap Dashboard DEMO methods, don't include it in your project! -->
+
 <script src="../assets/js/demo.js"></script>
 
 

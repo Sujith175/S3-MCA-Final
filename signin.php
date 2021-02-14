@@ -11,7 +11,7 @@
     <div class="container">
       <div class="forms-container">
         <div class="signin-signup">
-
+          <!-- LOG IN FROM -->
           <form method="post" action="validation.php" class="sign-in-form">
             <h2 class="title">Sign in</h2> 
             <div class="input-field">
@@ -23,14 +23,19 @@
               <input type="password" name="password" placeholder="Password" class="form-control" required="">
             </div>
             <input type="submit" value="Login" class="btn solid" />
+            <a href="forgetpass.php">Forgot password!</a>
             
           </form>
-
+          <!-- SIGN UP FROM -->
           <form  method="post" action="registration.php" class="sign-up-form" >
             <h2 class="title">Sign up</h2>
             <div class="input-field">
               <i class="fas fa-user"></i>
               <input type="text" placeholder="Username" name="newname" class="form-control" required/>
+            </div>
+            <div class="input-field">
+              <i class="fas fa-envelope"></i>
+              <input type="email" placeholder="Email" name="email" class="form-control" />
             </div>
              <div class="input-field">
               <i class="fas fa-lock"></i>

@@ -1,6 +1,6 @@
 <?php
 
-session_start();
+
 
 $con = mysqli_connect("localhost","root","");
 
@@ -19,11 +19,13 @@ $num = mysqli_num_rows($result);
 
 if($num == 1)
 {
-	$_SESSION['username'] = $name;
+	session_start();
+	$_SESSION["username"] = "$name";
 	
 	header('location:index.php');
 }
 else {
-	header('location:signin.html');
+	echo'<script>var r = confirm("Username or Password is incorrect try again.");</script>';
+    echo'<script>if(r== true ){window.location.href = "signin.php";};</script>';
 }
 ?>

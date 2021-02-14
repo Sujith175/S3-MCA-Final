@@ -137,7 +137,7 @@
                                 </div>
                             </li>
                             <li class="nav-item">
-                                <a class="nav-link" href="#pablo">
+                                <a class="nav-link" href="../logout.php">
                                     <span class="no-icon">Log out</span>
                                 </a>
                             </li>
@@ -150,7 +150,7 @@
 <!-------link body------->
 <br></br>
 <h7>BTECH Computer Science</h7>
-div class="content">
+<div class="content">
                 <div class="container-fluid">
 
                     <p><b>Semester 1</b></p>
@@ -200,7 +200,7 @@ div class="content">
         
 
 <br>
-          <p><b>Semester 2<b></p>
+          <p><b>Semester 1 & 2<b></p>
           
            
             <span data-notify="icon" class="tim-icons icon-coins"></span>
@@ -217,7 +217,7 @@ div class="content">
             <span><a href="https://drive.google.com/file/d/1F4aq9GO5_2A749j_QsklL0nm0juU28tl/view?usp=sharing"><b>Engineering Chemistry Module 5<b></a></span> <br>
             <span><a href="https://drive.google.com/file/d/1iD3qq_w3cC_PWEqskFHal04t-xX4nSZp/view?usp=sharing"><b>Engineering Chemistry Module 6<b></a></span> <br>
             <span><a href="https://drive.google.com/file/d/1WT8OcOeYRXRPRGaUzgLeFMJGIXkCfKcP/view?usp=sharing"><b>Engineering Mechanics Module 1<b></a></span> <br>
-            <span><a href="#"><b>Engineering Mechanics Module 2<b></a></span> <br>
+            
             <span><a href="https://drive.google.com/file/d/1F7nz8nw0fpXXZ3BOtUT78jl9VtKqAfq_/view?usp=sharing"><b>Engineering Mechanics Module 3<b></a></span> <br>
             <span><a href="https://drive.google.com/file/d/1AaK5-R_wqUsbQWjquwaDE09EooHiwKLd/view?usp=sharing"><b>Engineering Mechanics Module 4<b></a></span> <br>
             <span><a href="https://drive.google.com/file/d/1yVF7HGEx5dEQ1a6bW9thlzWS3YHEHUJo/view?usp=sharing"><b>Engineering Mechanics Module 5<b></a></span> <br>
@@ -242,7 +242,7 @@ div class="content">
             <span><a href="https://drive.google.com/file/d/148lO0PmTnfPhX4_rZuVsFE__1GPYvEh6/view?usp=sharing"><b>Computer Programming Module 5<b></a></span> <br>
 
        
-                        
+         <br>               
         
 
            <p>Semester 3</p>
@@ -251,13 +251,13 @@ div class="content">
             <span data-notify="icon" class="tim-icons icon-coins"></span>
             <span><a href="#"><b>NOT yet<b></a></span> <br>
           </div>
-
+<br>
           <p>Semester 4</p>
           <div class="alert alert-primary alert-with-icon">
             <span data-notify="icon" class="tim-icons icon-coins"></span>
             <span><a href="#"><b>NOT yet<b></a></span> <br>
           </div>
-
+<br>
           <p>Semester 5</p>
           <div class="alert alert-primary alert-with-icon">
             <button type="button" aria-hidden="true" class="close" data-dismiss="alert">
@@ -267,7 +267,7 @@ div class="content">
             <span>
             <span><a href="#"><b>NOT yet<b></a></span> <br>
           </div>
-                
+    <br>            
           
           <p>Semester 6</p>
           <div class="alert alert-primary alert-with-icon">
@@ -278,7 +278,7 @@ div class="content">
             <span>
             <span><a href="#"><b>NOT yet<b></a></span> <br>
           </div>
-          
+    <br>      
           <p>Semester 7</p>
           <div class="alert alert-primary alert-with-icon">
             <button type="button" aria-hidden="true" class="close" data-dismiss="alert">
@@ -288,7 +288,7 @@ div class="content">
             <span>
             <span><a href="#"><b>NOT yet<b></a></span> <br>
           </div>
-
+<br>
           <p>Semester 8</p>
           <div class="alert alert-primary alert-with-icon">
             <button type="button" aria-hidden="true" class="close" data-dismiss="alert">

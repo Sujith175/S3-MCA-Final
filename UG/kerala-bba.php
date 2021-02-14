@@ -27,7 +27,7 @@
        
             <div class="sidebar-wrapper">
                 <div class="logo">
-                    <a href="/index.php" class="simple-text">
+                    <a href="../index.php" class="simple-text">
                         Learnso
                     </a>
                 </div>
@@ -144,7 +144,7 @@
                                 </div>
                             </li>
                             <li class="nav-item">
-                                <a class="nav-link" href="#pablo">
+                                <a class="nav-link" href="../logout.php">
                                     <span class="no-icon">Log out</span>
                                 </a>
                             </li>
@@ -206,8 +206,8 @@
 <br>
           <p>Semester 6</p>
             <span data-notify="icon" class="tim-icons icon-coins"></span>
-            <span><a href=""><b><b></a></span> <br>
-            <span><a href=""><b>Human Resource Management<b></a></span> <br>
+            
+            <span><a href=""><b>Not Yet<b></a></span> <br>
          </div>
          </div>
                  <!-------------------link body end--------------------->  

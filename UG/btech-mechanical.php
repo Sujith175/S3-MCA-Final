@@ -126,7 +126,7 @@
                                 </div>
                             </li>
                             <li class="nav-item">
-                                <a class="nav-link" href="#">
+                                <a class="nav-link" href="../logout.php">
                                     <span class="no-icon">Log out</span>
                                 </a>
                             </li>
@@ -150,7 +150,7 @@
                   
 
                     <div class="card" style="width: 18rem;">
-                        <img class="card-img-top" src="file:///C:/Users/sujith%20Kumar/Documents/light-bootstrap-dashboard-master/assets/img/p1.jpg" alt="Card image cap">
+                        <img class="card-img-top" src="../assets/img/p1.jpg" alt="Card image cap">
                         <div class="card-body">
                           <h5 class="card-title">KTU</h5>
                           <p class="card-text">APJ ABDULKALAM TECHNOLOGICAL UNIVERSITY</p>
@@ -159,15 +159,7 @@
                       </div>
                    
                     
-                   
-                      <div class="card" style="width: 18rem;">
-                        <img class="card-img-top" src="file:///C:/Users/sujith%20Kumar/Documents/light-bootstrap-dashboard-master/assets/img/p3.png" alt="Card image cap">
-                        <div class="card-body">
-                          <h5 class="card-title">MG</h5>
-                          <p class="card-text">MAHATMA GHANDI<br> UNIVERSITY</p>
-                          <a href="btech-mgu-mechanical.php" class="btn btn-primary">Go to Materials</a>
-                        </div>
-                      </div>
+                
 
 
                         </div>

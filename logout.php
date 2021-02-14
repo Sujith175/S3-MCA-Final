@@ -1,8 +1,8 @@
 <?php
+session_start();
+unset($_SESSION['username']);
+session_destroy();
+header('location:signin.php');
 
-    echo"logout";
-    session_destroy();
-    unset($_SESSION['username']);
-    header("location:signin.html");
-
+   
 ?>
